@@ -1,7 +1,0 @@
-id=19911016
-name=开启Soli雷达
-version=v1.1
-versionCode=1
-author=简书@AAAAAAlone
-description=自动执行开启soli雷达的神秘代码。适用pixel4及4XL
-minMagisk=17000
